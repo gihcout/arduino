@@ -1,4 +1,4 @@
-# arduino
+<img align="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 Projetos com arduino desenvolvidos em aula presencial e online
 
 #
@@ -10,4 +10,4 @@ Projetos com arduino desenvolvidos em aula presencial e online
 
 #
 
-[home page](https://github.com/gihcout/gihcout/blob/main/README.md)
+[<<](https://github.com/gihcout/gihcout/blob/main/README.md)
