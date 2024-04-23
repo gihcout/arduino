@@ -10,4 +10,4 @@ Projetos com arduino desenvolvidos em aula presencial e online
 
 #
 
-[<<](https://github.com/gihcout/gihcout/blob/main/README.md)
+<img width="45" src="https://github.com/gihcout/arduino/assets/112673878/a25404ac-e2a0-4e53-9f31-3a55b0bdfebc" href=https://github.com/gihcout/gihcout/blob/main/README.md/>
